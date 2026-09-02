@@ -1,0 +1,2 @@
+74b7603c4cbb9bd51764a50ee1a880bda2509522fe48ddd40e290aecbf2745c7  README.md
+5cfd98c632eb65407d2691cfd4da87df6a9fbe7335e5e4bdbe8bf1d5c4146019  sources/quotations-as-captured-2026-09-02.md
